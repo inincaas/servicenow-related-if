@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2013-11-21 18:13:29">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<collisions/>
+<commit_date/>
+<deleted/>
+<description></description>
+<inserted/>
+<name>Workflow Activity - If Related List</name>
+<release_date/>
+<remote_sys_id>7f0b51b29a6740e5b80b36b00f247b83</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_created_by>Jason.Butz</sys_created_by>
+<sys_created_on>2013-11-21 18:13:27</sys_created_on>
+<sys_id>6bae2a726951418580049135d5cf7eba</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Jason.Butz</sys_updated_by>
+<sys_updated_on>2013-11-21 18:13:27</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_var__m_e69260bf34c1d10095cf93f368f0abfb_table_en</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;sys_documentation element="table" language="en" table="var__m_e69260bf34c1d10095cf93f368f0abfb"&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;table&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Related Table&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_e69260bf34c1d10095cf93f368f0abfb&lt;/name&gt;&lt;plural/&gt;&lt;sys_created_by&gt;Jason.Butz&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2013-11-21 16:10:34&lt;/sys_created_on&gt;&lt;sys_id&gt;6b63e8bf34c1d10095cf93f368f0ab93&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;Jason.Butz&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2013-11-21 16:10:34&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;/sys_documentation&gt;</payload>
+<remote_update_set display_value="Workflow Activity - If Related List">6bae2a726951418580049135d5cf7eba</remote_update_set>
+<sys_created_by>Jason.Butz</sys_created_by>
+<sys_created_on>2013-11-21 18:13:28</sys_created_on>
+<sys_id>338fb0b33405d10095cf93f368f0ab91</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Jason.Butz</sys_updated_by>
+<sys_updated_on>2013-11-21 18:13:28</sys_updated_on>
+<table>var__m_e69260bf34c1d10095cf93f368f0abfb</table>
+<target_name>If Related List.Related Table</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_var__m_e69260bf34c1d10095cf93f368f0abfb_condition_en</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;sys_documentation element="condition" language="en" table="var__m_e69260bf34c1d10095cf93f368f0abfb"&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;condition&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Condition&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_e69260bf34c1d10095cf93f368f0abfb&lt;/name&gt;&lt;plural&gt;Condition&lt;/plural&gt;&lt;sys_created_by&gt;Jason.Butz&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2013-11-21 16:11:30&lt;/sys_created_on&gt;&lt;sys_id&gt;0da324bf34c1d10095cf93f368f0ab3e&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;Jason.Butz&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2013-11-21 16:11:43&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;/sys_documentation&gt;</payload>
+<remote_update_set display_value="Workflow Activity - If Related List">6bae2a726951418580049135d5cf7eba</remote_update_set>
+<sys_created_by>Jason.Butz</sys_created_by>
+<sys_created_on>2013-11-21 18:13:27</sys_created_on>
+<sys_id>3b8fb0b33405d10095cf93f368f0ab8f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Jason.Butz</sys_updated_by>
+<sys_updated_on>2013-11-21 18:13:27</sys_updated_on>
+<table>var__m_e69260bf34c1d10095cf93f368f0abfb</table>
+<target_name>If Related List.Condition</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_var__m_e69260bf34c1d10095cf93f368f0abfb_rl_match_en</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;sys_documentation element="rl_match" language="en" table="var__m_e69260bf34c1d10095cf93f368f0abfb"&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;rl_match&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Related Table Field&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_e69260bf34c1d10095cf93f368f0abfb&lt;/name&gt;&lt;plural/&gt;&lt;sys_created_by&gt;Jason.Butz&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2013-11-21 16:24:10&lt;/sys_created_on&gt;&lt;sys_id&gt;b286a8bf34c1d10095cf93f368f0ab16&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;Jason.Butz&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2013-11-21 16:24:10&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;/sys_documentation&gt;</payload>
+<remote_update_set display_value="Workflow Activity - If Related List">6bae2a726951418580049135d5cf7eba</remote_update_set>
+<sys_created_by>Jason.Butz</sys_created_by>
+<sys_created_on>2013-11-21 18:13:28</sys_created_on>
+<sys_id>3b8fb0b33405d10095cf93f368f0ab92</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Jason.Butz</sys_updated_by>
+<sys_updated_on>2013-11-21 18:13:28</sys_updated_on>
+<table>var__m_e69260bf34c1d10095cf93f368f0abfb</table>
+<target_name>If Related List.Related Table Field</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<category>customer</category>
+<comments/>
+<name>wf_condition_default_6ef2a8bf34c1d10095cf93f368f0abc8</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="wf_condition_default"&gt;&lt;wf_condition_default action="INSERT_OR_UPDATE"&gt;&lt;activity_definition display_value="If Related List"&gt;e69260bf34c1d10095cf93f368f0abfb&lt;/activity_definition&gt;&lt;condition&gt;activity.result == 'yes'&lt;/condition&gt;&lt;else_flag&gt;false&lt;/else_flag&gt;&lt;event&gt;false&lt;/event&gt;&lt;event_name/&gt;&lt;name&gt;Yes&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;short_description/&gt;&lt;skip_during_generate&gt;false&lt;/skip_during_generate&gt;&lt;sys_created_by&gt;Jason.Butz&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2013-11-21 16:08:52&lt;/sys_created_on&gt;&lt;sys_id&gt;6ef2a8bf34c1d10095cf93f368f0abc8&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;Jason.Butz&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2013-11-21 16:08:52&lt;/sys_updated_on&gt;&lt;/wf_condition_default&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="Workflow Activity - If Related List">6bae2a726951418580049135d5cf7eba</remote_update_set>
+<sys_created_by>Jason.Butz</sys_created_by>
+<sys_created_on>2013-11-21 18:13:28</sys_created_on>
+<sys_id>7b8fb0b33405d10095cf93f368f0ab91</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Jason.Butz</sys_updated_by>
+<sys_updated_on>2013-11-21 18:13:28</sys_updated_on>
+<table/>
+<target_name>Yes</target_name>
+<type>Condition Default</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<category>customer</category>
+<comments/>
+<name>wf_activity_variable_2143e8bf34c1d10095cf93f368f0ab8a</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="wf_activity_variable"&gt;&lt;wf_activity_variable action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation/&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;element&gt;table&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type&gt;table_name&lt;/internal_type&gt;&lt;label&gt;Related Table&lt;/label&gt;&lt;mandatory&gt;true&lt;/mandatory&gt;&lt;max_length&gt;100&lt;/max_length&gt;&lt;model display_value="If Related List"&gt;e69260bf34c1d10095cf93f368f0abfb&lt;/model&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;name&gt;var__m_e69260bf34c1d10095cf93f368f0abfb&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_qual/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;sys_class_name&gt;wf_activity_variable&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Jason.Butz&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2013-11-21 16:10:34&lt;/sys_created_on&gt;&lt;sys_id&gt;2143e8bf34c1d10095cf93f368f0ab8a&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;Jason.Butz&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2013-11-21 16:10:34&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/wf_activity_variable&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="Workflow Activity - If Related List">6bae2a726951418580049135d5cf7eba</remote_update_set>
+<sys_created_by>Jason.Butz</sys_created_by>
+<sys_created_on>2013-11-21 18:13:28</sys_created_on>
+<sys_id>b38fb0b33405d10095cf93f368f0ab92</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Jason.Butz</sys_updated_by>
+<sys_updated_on>2013-11-21 18:13:28</sys_updated_on>
+<table/>
+<target_name>table</target_name>
+<type>Activity Variables</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_var__m_e69260bf34c1d10095cf93f368f0abfb_wf_match_en</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;sys_documentation element="wf_match" language="en" table="var__m_e69260bf34c1d10095cf93f368f0abfb"&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;wf_match&lt;/element&gt;&lt;help/&gt;&lt;hint&gt;This field comes from the Workflow and must match the field given below to the related table. Usually this will be the sys_id&lt;/hint&gt;&lt;label&gt;Workflow Table Field&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_e69260bf34c1d10095cf93f368f0abfb&lt;/name&gt;&lt;plural&gt;Workflow Table Field&lt;/plural&gt;&lt;sys_created_by&gt;Jason.Butz&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2013-11-21 16:18:05&lt;/sys_created_on&gt;&lt;sys_id&gt;6925ecbf34c1d10095cf93f368f0ab0c&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;Jason.Butz&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2013-11-21 16:18:41&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;/sys_documentation&gt;</payload>
+<remote_update_set display_value="Workflow Activity - If Related List">6bae2a726951418580049135d5cf7eba</remote_update_set>
+<sys_created_by>Jason.Butz</sys_created_by>
+<sys_created_on>2013-11-21 18:13:28</sys_created_on>
+<sys_id>bb8fb0b33405d10095cf93f368f0ab90</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Jason.Butz</sys_updated_by>
+<sys_updated_on>2013-11-21 18:13:28</sys_updated_on>
+<table>var__m_e69260bf34c1d10095cf93f368f0abfb</table>
+<target_name>If Related List.Workflow Table Field</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<category>customer</category>
+<comments/>
+<name>wf_activity_definition_e69260bf34c1d10095cf93f368f0abfb</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="wf_activity_definition"&gt;&lt;wf_activity_definition action="INSERT_OR_UPDATE"&gt;&lt;action&gt;false&lt;/action&gt;&lt;attributes/&gt;&lt;category&gt;Conditions&lt;/category&gt;&lt;default_height/&gt;&lt;default_width/&gt;&lt;description/&gt;&lt;image/&gt;&lt;js_class_name&gt;If_Related_List&lt;/js_class_name&gt;&lt;name&gt;If Related List&lt;/name&gt;&lt;script&gt;// Workflow activity definition handler class&amp;#13;
+//&amp;#13;
+// Implement activity definition handling in the onExecute method&amp;#13;
+//&amp;#13;
+// Implement any event handlers for the activity definition as a method named 'on[event_name]'&amp;#13;
+//     For example, to handle the 'cancel' event, implement an 'onCancel' method&amp;#13;
+//&amp;#13;
+&amp;#13;
+var If_Related_ListActivityHandler = Class.create();&amp;#13;
+If_Related_ListActivityHandler.prototype = Object.extendsObject(WFActivityHandler, {&amp;#13;
+&amp;#13;
+   initialize: function() {&amp;#13;
+      WFActivityHandler.prototype.initialize.call(this);&amp;#13;
+   },&amp;#13;
+&amp;#13;
+   onExecute: function() {&amp;#13;
+      // Define a GlideRecord for the related table&amp;#13;
+      var gr = new GlideRecord(activity.vars.table);&amp;#13;
+      // Check the related table field for the value on the current record in the&amp;#13;
+      //  workflow table's field&amp;#13;
+      gr.addQuery(activity.vars.rl_match,current.getValue(activity.vars.wf_match));&amp;#13;
+      // Check our related table conditions as well in the query&amp;#13;
+      gr.addEncodedQuery(activity.vars.condition);&amp;#13;
+      gr.query();&amp;#13;
+      if (gr.next())&amp;#13;
+         activity.result = 'yes';&amp;#13;
+      else&amp;#13;
+         activity.result = 'no';&amp;#13;
+   },&amp;#13;
+&amp;#13;
+   type: 'If_Related_ListActivityHandler'&amp;#13;
+});&lt;/script&gt;&lt;style/&gt;&lt;sys_created_by&gt;Jason.Butz&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2013-11-21 16:07:56&lt;/sys_created_on&gt;&lt;sys_id&gt;e69260bf34c1d10095cf93f368f0abfb&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;Jason.Butz&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2013-11-21 16:33:12&lt;/sys_updated_on&gt;&lt;table&gt;global&lt;/table&gt;&lt;/wf_activity_definition&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="Workflow Activity - If Related List">6bae2a726951418580049135d5cf7eba</remote_update_set>
+<sys_created_by>Jason.Butz</sys_created_by>
+<sys_created_on>2013-11-21 18:13:27</sys_created_on>
+<sys_id>bf8fb0b33405d10095cf93f368f0ab8f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Jason.Butz</sys_updated_by>
+<sys_updated_on>2013-11-21 18:13:27</sys_updated_on>
+<table>global</table>
+<target_name>If Related List</target_name>
+<type>Workflow Activity Definition</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<category>customer</category>
+<comments/>
+<name>wf_activity_variable_7e86a8bf34c1d10095cf93f368f0ab14</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="wf_activity_variable"&gt;&lt;wf_activity_variable action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation/&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent&gt;vars.table&lt;/dependent&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;element&gt;rl_match&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;help/&gt;&lt;hint&gt;This field comes from the related table and will be checked against the value in the field from the workflow.&lt;/hint&gt;&lt;internal_type&gt;field_name&lt;/internal_type&gt;&lt;label&gt;Related Table Field&lt;/label&gt;&lt;mandatory&gt;true&lt;/mandatory&gt;&lt;max_length&gt;100&lt;/max_length&gt;&lt;model display_value="If Related List"&gt;e69260bf34c1d10095cf93f368f0abfb&lt;/model&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;name&gt;var__m_e69260bf34c1d10095cf93f368f0abfb&lt;/name&gt;&lt;order&gt;300&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_qual/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;sys_class_name&gt;wf_activity_variable&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Jason.Butz&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2013-11-21 16:24:10&lt;/sys_created_on&gt;&lt;sys_id&gt;7e86a8bf34c1d10095cf93f368f0ab14&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;Jason.Butz&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2013-11-21 16:24:10&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/wf_activity_variable&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="Workflow Activity - If Related List">6bae2a726951418580049135d5cf7eba</remote_update_set>
+<sys_created_by>Jason.Butz</sys_created_by>
+<sys_created_on>2013-11-21 18:13:28</sys_created_on>
+<sys_id>bf8fb0b33405d10095cf93f368f0ab92</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Jason.Butz</sys_updated_by>
+<sys_updated_on>2013-11-21 18:13:28</sys_updated_on>
+<table/>
+<target_name>rl_match</target_name>
+<type>Activity Variables</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<category>customer</category>
+<comments/>
+<name>wf_activity_variable_0eb420ff34c1d10095cf93f368f0ab0e</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="wf_activity_variable"&gt;&lt;wf_activity_variable action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation/&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value&gt;sys_id&lt;/default_value&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent&gt;workflow_version.table&lt;/dependent&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;element&gt;wf_match&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;help/&gt;&lt;hint&gt;This field comes from the Workflow and must match the field given below to the related table. Usually this will be the sys_id&lt;/hint&gt;&lt;internal_type&gt;field_name&lt;/internal_type&gt;&lt;label&gt;Workflow Table Field&lt;/label&gt;&lt;mandatory&gt;true&lt;/mandatory&gt;&lt;max_length&gt;100&lt;/max_length&gt;&lt;model display_value="If Related List"&gt;e69260bf34c1d10095cf93f368f0abfb&lt;/model&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;name&gt;var__m_e69260bf34c1d10095cf93f368f0abfb&lt;/name&gt;&lt;order&gt;200&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_qual/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;sys_class_name&gt;wf_activity_variable&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Jason.Butz&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2013-11-21 16:18:05&lt;/sys_created_on&gt;&lt;sys_id&gt;0eb420ff34c1d10095cf93f368f0ab0e&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;Jason.Butz&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2013-11-21 16:22:22&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/wf_activity_variable&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="Workflow Activity - If Related List">6bae2a726951418580049135d5cf7eba</remote_update_set>
+<sys_created_by>Jason.Butz</sys_created_by>
+<sys_created_on>2013-11-21 18:13:28</sys_created_on>
+<sys_id>f38fb0b33405d10095cf93f368f0ab91</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Jason.Butz</sys_updated_by>
+<sys_updated_on>2013-11-21 18:13:28</sys_updated_on>
+<table/>
+<target_name>wf_match</target_name>
+<type>Activity Variables</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<category>customer</category>
+<comments/>
+<name>wf_condition_default_fb03e8bf34c1d10095cf93f368f0ab06</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="wf_condition_default"&gt;&lt;wf_condition_default action="INSERT_OR_UPDATE"&gt;&lt;activity_definition display_value="If Related List"&gt;e69260bf34c1d10095cf93f368f0abfb&lt;/activity_definition&gt;&lt;condition&gt;activity.result == 'no'&lt;/condition&gt;&lt;else_flag&gt;false&lt;/else_flag&gt;&lt;event&gt;false&lt;/event&gt;&lt;event_name/&gt;&lt;name&gt;No&lt;/name&gt;&lt;order&gt;200&lt;/order&gt;&lt;short_description/&gt;&lt;skip_during_generate&gt;false&lt;/skip_during_generate&gt;&lt;sys_created_by&gt;Jason.Butz&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2013-11-21 16:09:11&lt;/sys_created_on&gt;&lt;sys_id&gt;fb03e8bf34c1d10095cf93f368f0ab06&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;Jason.Butz&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2013-11-21 16:09:11&lt;/sys_updated_on&gt;&lt;/wf_condition_default&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="Workflow Activity - If Related List">6bae2a726951418580049135d5cf7eba</remote_update_set>
+<sys_created_by>Jason.Butz</sys_created_by>
+<sys_created_on>2013-11-21 18:13:28</sys_created_on>
+<sys_id>f78fb0b33405d10095cf93f368f0ab90</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Jason.Butz</sys_updated_by>
+<sys_updated_on>2013-11-21 18:13:28</sys_updated_on>
+<table/>
+<target_name>No</target_name>
+<type>Condition Default</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<category>customer</category>
+<comments/>
+<name>wf_activity_variable_f483a4bf34c1d10095cf93f368f0ab39</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="wf_activity_variable"&gt;&lt;wf_activity_variable action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation/&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent&gt;vars.table&lt;/dependent&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;element&gt;condition&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type&gt;conditions&lt;/internal_type&gt;&lt;label&gt;Condition&lt;/label&gt;&lt;mandatory&gt;true&lt;/mandatory&gt;&lt;max_length&gt;1000&lt;/max_length&gt;&lt;model display_value="If Related List"&gt;e69260bf34c1d10095cf93f368f0abfb&lt;/model&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;name&gt;var__m_e69260bf34c1d10095cf93f368f0abfb&lt;/name&gt;&lt;order&gt;400&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_qual/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;sys_class_name&gt;wf_activity_variable&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Jason.Butz&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2013-11-21 16:11:30&lt;/sys_created_on&gt;&lt;sys_id&gt;f483a4bf34c1d10095cf93f368f0ab39&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;Jason.Butz&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2013-11-21 16:16:09&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/wf_activity_variable&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="Workflow Activity - If Related List">6bae2a726951418580049135d5cf7eba</remote_update_set>
+<sys_created_by>Jason.Butz</sys_created_by>
+<sys_created_on>2013-11-21 18:13:28</sys_created_on>
+<sys_id>ff8fb0b33405d10095cf93f368f0ab91</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Jason.Butz</sys_updated_by>
+<sys_updated_on>2013-11-21 18:13:28</sys_updated_on>
+<table/>
+<target_name>condition</target_name>
+<type>Activity Variables</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
